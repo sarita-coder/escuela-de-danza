@@ -1,0 +1,47 @@
+/* Inserta tu codigo aqui */
+.header-nav ul li{
+		display: inline;
+}
+.header-nav ul li a{
+	padding: 0 2%;
+
+}
+.Hero{
+	background-image: url('../img/dance_1.jpg');
+	height: 380px;
+}
+.text p:nth-child(2){
+	padding:3% 40% 10% 0;
+
+}
+.incrib {
+	background: #030E1E;
+}
+.main-1{
+	background-image: url('../img/textura_2.jpg');
+}
+.m-1-deco{
+	height: 60px;
+	width: 110px;
+}
+.oferta {
+		border-radius: 5px;
+}
+.main-2{
+	border-top: 1px solid black;
+	position: relative;
+}
+.instructor {
+	position: absolute;
+	bottom: -1px;
+	left: 30%;
+}
+.m-2-left {
+	background-image: url('../img/instructor_4.jpg');
+}
+.m-2-right {
+	background-image: url('../img/profesor_9.jpg');
+}
+.main-2, .m-2 {
+	height: 301px;
+}
