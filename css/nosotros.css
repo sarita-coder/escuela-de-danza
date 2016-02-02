@@ -1,1 +1,70 @@
 /* Inserta tu codigo aqui */
+.header-nav ul li{
+		display: inline;
+}
+.header-nav ul li a{
+	padding: 0 2%;
+}
+.hero {
+	background-image: url('../img/dance_7.jpg');
+	height: 370px;
+	background-size: 140% 192%;
+	background-position: 0% 39%;
+	border-top: 1px solid #DDE2E3;
+}
+.text-hero{
+	width: 480px;
+	height: 190px;
+	  background: rgba(0,0,0,0.42);
+}
+.vertical {
+	height: 380px;
+	display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.main-2 {
+	height: 250px;
+	background-image: url('../img/cubes.png');
+	padding-bottom: 5%;
+}
+.INSTRUCTORES .row .col-3{
+	position: relative;
+}
+.instructor img {
+	width: 100%;
+	height: 200px;
+}
+.main-4 {
+	height: 172px;
+	background-image: url('../img/cubes.png');
+}
+
+
+
+
+
+
+
+.ENVIAR {
+	width: 500px;
+}
+.main-5{
+	background-image: url('../img/shoes_1.jpg');
+	height: 500px;
+}
+.entrada {
+	width: 100%;
+}
+.nombre .entrada, .email .entrada {
+	height: 40px;
+}
+.mensaje .entrada {
+	height: 140px;
+}
+.enviar {
+	height: 50px;
+}

@@ -21,7 +21,7 @@
 	height: 60px;
 	width: 110px;
 }
-.oferta {
+.b-radius {
 		border-radius: 5px;
 }
 .main-2{
@@ -47,4 +47,23 @@
 }
 .ubicacion {
 	padding-right: 15%
+}
+.ENVIAR {
+	width: 500px;
+}
+.main-5{
+	background-image: url('../img/shoes_1.jpg');
+	height: 500px;
+}
+.entrada {
+	width: 100%;
+}
+.nombre .entrada, .email .entrada {
+	height: 40px;
+}
+.mensaje .entrada {
+	height: 140px;
+}
+.enviar {
+	height: 50px;
 }

@@ -1,1 +1,58 @@
 /* Inserta tu codigo aqui */
+.header-nav ul li{
+		display: inline;
+}
+.header-nav ul li a{
+	padding: 0 2%;
+}
+.main-1 {
+
+}
+.clases img{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+		
+
+}
+.clases{
+	position: relative;
+	height: 400px;
+
+	display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.
+.text-clases{
+	position: relative;
+	width: 220px;
+	height: 190px;
+	 background: rgba(0,0,0,0.42);
+	 z-index: 10;
+}
+
+
+
+
+
+
+.main-5{
+	background-image: url('../img/shoes_1.jpg');
+	height: 500px;
+}
+.entrada {
+	width: 100%;
+}
+.nombre .entrada, .email .entrada {
+	height: 40px;
+}
+.mensaje .entrada {
+	height: 140px;
+}
+.enviar {
+	height: 50px;
+}

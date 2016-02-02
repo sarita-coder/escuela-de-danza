@@ -28,6 +28,9 @@
 .pt-5{
 	padding-top: 5%;
 }
+.pt-3 {
+	padding-bottom: 3%;
+}
 .pb-5{
 	padding-bottom: 5%;
 }
@@ -51,6 +54,9 @@
 }
 .pd-5{
 	padding: 5%;
+}
+.pd-0-5 {
+	padding: 0 5%;
 }
 .mg-0{
 	margin: 0;
@@ -95,6 +101,18 @@
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.bg-img-block-f{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+.bg-img-block-r{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 60% 100%;
+}
 a {
 	text-decoration: none;
 }
@@ -113,8 +131,8 @@ a {
 .b-blue{
 	background: #1A2851;
 	color: white;
-
 }
 .f-32 {
 	font-size: 38px;
 }
+
