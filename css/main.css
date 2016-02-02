@@ -6,13 +6,10 @@
 	padding: 0 2%;
 
 }
-.Hero{
+.Hero
+{
 	background-image: url('../img/dance_1.jpg');
 	height: 380px;
-}
-.text p:nth-child(2){
-	padding:3% 40% 10% 0;
-
 }
 .incrib {
 	background: #030E1E;
@@ -44,4 +41,10 @@
 }
 .main-2, .m-2 {
 	height: 301px;
+}
+.lema p {
+	font-style: italic;
+}
+.ubicacion {
+	padding-right: 15%
 }
