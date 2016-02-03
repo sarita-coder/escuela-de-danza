@@ -1,1 +1,40 @@
 /* Inserta tu codigo que es común para todas las páginas aqui */
+
+/* Encabezado */
+.header-nav ul li{
+		display: inline;
+}
+.header-nav ul li a{
+	padding: 0 2%;
+}
+
+/* contacto */
+
+.main-5{
+	background-image: url('../img/shoes_1.jpg');
+	height: 500px;
+}
+.entrada-text {
+	width: 100%;
+}
+.nombre .entrada-text, .email .entrada-text {
+	height: 45px;
+}
+.mensaje .entrada-text {
+	height: 140px;
+}
+.enviar {
+	height: 50px;
+}
+.b-nombre {
+	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');
+}
+.b-email{
+	background-image: url('http://rexkirby.com/kirbyandson/images/email.svg');
+}
+.b-mensaje{
+	background-image: url('http://rexkirby.com/kirbyandson/images/comment.svg');
+}
+.bg-trans{
+	background-color: transparent;
+}

@@ -1,34 +1,13 @@
 /* Inserta tu codigo aqui */
-.header-nav ul li{
-		display: inline;
-}
-.header-nav ul li a{
-	padding: 0 2%;
-}
 .main-1 {
 	background: #F4F4F4;
 }
 .blog-img img {
 	width: 100%;
-	height: 225px;
+	height: 211px;
 }
 .text-blog {
 	background: #DDDFE0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.ENVIAR {
-	width: 500px;
 }
 .main-5{
 	background-image: url('../img/shoes_1.jpg');
@@ -45,4 +24,17 @@
 }
 .enviar {
 	height: 50px;
+}
+/* aplicaciones */
+.header-nav ul li a:hover {
+	background: #928AFF;
+	border-radius: 2px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.v-mas:hover{
+	background:  #928AFF;
+}
+.blog-img img:hover {
+	border: 2px solid #928AFF;
 }

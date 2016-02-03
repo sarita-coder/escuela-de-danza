@@ -1,11 +1,4 @@
 /* Inserta tu codigo aqui */
-.header-nav ul li{
-		display: inline;
-}
-.header-nav ul li a{
-	padding: 0 2%;
-
-}
 .Hero
 {
 	background-image: url('../img/dance_1.jpg');
@@ -21,7 +14,9 @@
 	height: 60px;
 	width: 110px;
 }
-
+.b-radius {
+		border-radius: 5px;
+}
 .main-2{
 	border-top: 1px solid black;
 	position: relative;
@@ -46,22 +41,22 @@
 .ubicacion {
 	padding-right: 15%
 }
-.ENVIAR {
-	width: 500px;
+/**Aplicaciones */
+.header-nav ul li a:hover {
+	background: #928AFF;
+	border-radius: 2px;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
-.main-5{
-	background-image: url('../img/shoes_1.jpg');
-	height: 500px;
+.incrib:hover{
+	background:  #928AFF;
 }
-.entrada-text {
-	width: 100%;
+.oferta:hover{
+	background:  #928AFF; 
 }
-.nombre .entrada-text, .email .entrada-text {
-	height: 45px;
+.instructor:hover{
+	background:  #928AFF; 
 }
-.mensaje .entrada-text {
-	height: 140px;
-}
-.enviar {
-	height: 50px;
+.studio:hover {
+	color:#928AFF;
 }

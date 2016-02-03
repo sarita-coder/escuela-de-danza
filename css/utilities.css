@@ -19,7 +19,6 @@
 	font-family: Neoteric-Bold;
 	src: url(../fonts/Neoteric-Bold.ttf);
 }
-
 /* Shortcuts */
 
 .pd-0{
@@ -34,12 +33,6 @@
 .pb-5{
 	padding-bottom: 5%;
 }
-.pt-1{
-	padding-top: 1%;
-}
-.pb-1{
-	padding-bottom: 1%;
-}
 .pd-3{
 	padding:3%;
 }
@@ -49,11 +42,11 @@
 .pd-3-10{
 	padding: 3% 10%;
 }
-.pd-2-10{
-	padding: 2% 10%;
-}
 .pd-2-15{
 	padding: 2% 15%;
+}
+.pd-2-10{
+	padding: 2% 10%;
 }
 .pd-10-20{
 	padding: 10% 20%;
@@ -65,7 +58,7 @@
 	padding: 5%;
 }
 .pd-0-5 {
-	padding: 0 5%;
+	padding: 0 5%
 }
 .mg-0{
 	margin: 0;
@@ -115,7 +108,6 @@
 	background-repeat: no-repeat;
 	background-position: left;
 }
-
 .bg-img-block-r{
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -133,9 +125,6 @@ a {
 }
 .f-14{
 	font-size: 14px;
-}
-.f-15 {
-	font-size: 15px;
 }
 .f-20 {
 	font-size:20px;
@@ -155,13 +144,4 @@ a {
 	background-size: 30px 30px;
     background-position: 5px 5px;
     background-repeat: no-repeat;
-}
-.b-nombre {
-	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');
-}
-.b-email{
-	background-image: url('http://rexkirby.com/kirbyandson/images/email.svg');
-}
-.b-mensaje{
-	background-image: url('http://rexkirby.com/kirbyandson/images/comment.svg');
 }

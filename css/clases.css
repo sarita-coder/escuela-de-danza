@@ -1,58 +1,37 @@
 /* Inserta tu codigo aqui */
-.header-nav ul li{
-		display: inline;
-}
-.header-nav ul li a{
-	padding: 0 2%;
-}
 .main-1 {
 
 }
-.clases img{
-	width: 100%;
-	height: 400px;
-	position: absolute;
-		
-
-}
-.clases{
+.clases {
 	position: relative;
-	height: 400px;
-
-	display: -webkit-flex;
-  display:         flex;
-  -webkit-align-items: center;
-          align-items: center;
-  -webkit-justify-content: center;
-          justify-content: center;
 }
-.
+.clases {
+	width: 100%;
+	height: 370px;
+}
 .text-clases{
-	position: relative;
-	width: 220px;
-	height: 190px;
-	 background: rgba(0,0,0,0.42);
-	 z-index: 10;
+	position: absolute;
+	top: 38%;
+	left:5%;
+	width: 90%;
+	height: 110px;
+	background: rgba(0,0,0,0.42);
 }
-
-
-
-
-
-
-.main-5{
-	background-image: url('../img/shoes_1.jpg');
-	height: 500px;
+.balet {
+	background-image: url('../img/dance_12.jpg');
 }
-.entrada-text {
-	width: 100%;
+.breakdance {
+	background-image: url('../img/breakdance.jpg');
 }
-.nombre .entrada-text, .email .entrada-text {
-	height: 45px;
+.lirical {
+	background-image: url('../img/lirical-jazz.jpg');
 }
-.mensaje .entrada-text {
-	height: 140px;
+.arabic {
+	background-image: url('../img/arabe.jpg');
 }
-.enviar {
-	height: 50px;
+.little{
+	background-image: url('../img/little.jpg');
+}
+.yoga {
+	background-image: url('../img/yoga.jpg');
 }
