@@ -56,13 +56,13 @@
 	background-image: url('../img/shoes_1.jpg');
 	height: 500px;
 }
-.entrada {
+.entrada-text {
 	width: 100%;
 }
-.nombre .entrada, .email .entrada {
-	height: 40px;
+.nombre .entrada-text, .email .entrada-text {
+	height: 45px;
 }
-.mensaje .entrada {
+.mensaje .entrada-text {
 	height: 140px;
 }
 .enviar {
