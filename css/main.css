@@ -42,12 +42,7 @@
 	padding-right: 15%
 }
 /**Aplicaciones */
-.header-nav ul li a:hover {
-	background: #928AFF;
-	border-radius: 2px;
-	padding-top: 1%;
-	padding-bottom: 1%;
-}
+
 .incrib:hover{
 	background:  #928AFF;
 }

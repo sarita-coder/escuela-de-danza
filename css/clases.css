@@ -35,3 +35,11 @@
 .yoga {
 	background-image: url('../img/yoga.jpg');
 }
+.clases:hover {
+	border: 2px solid #928AFF;
+	color: #928AFF;
+}
+.text-clases:hover {
+	color: #928AFF;
+	border: 2px solid ;
+}

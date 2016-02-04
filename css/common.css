@@ -9,10 +9,18 @@
 }
 
 /* contacto */
-
+.header-nav ul li a:hover {
+	background: #928AFF;
+	border-radius: 2px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
 .main-5{
 	background-image: url('../img/shoes_1.jpg');
 	height: 500px;
+}
+.entrada input {
+	border: 1px solid #d8d8d8;
 }
 .entrada-text {
 	width: 100%;
@@ -21,10 +29,19 @@
 	height: 45px;
 }
 .mensaje .entrada-text {
-	height: 140px;
+	height: 150px;
+	padding-top: 3%;
 }
 .enviar {
+	padding-top: 3%;
 	height: 50px;
+}
+.enviar:hover {
+	border: 2px solid white;
+	padding-top: 2%;
+}
+.entrada-text:hover {
+	border: 2px solid blue;
 }
 .b-nombre {
 	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');
